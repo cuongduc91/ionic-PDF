@@ -1,5 +1,7 @@
 {
   "name": "ionicPDF",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
